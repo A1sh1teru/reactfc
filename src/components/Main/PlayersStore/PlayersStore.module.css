@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+.containerPS {
+    display: flex;
+    max-width: 955px;
+    margin: 0px auto;
+}
+
+.containerPlayers {
+
+    margin-top: 44px;
+}
+
+.titlePlayers {
+    /* width: 711px; */
+    height: 42px;
+    background-color: #ED1639;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 20px;
+}
+
+.borderPlayers {
+    box-sizing: border-box;
+    border: 2px solid #ED1639;
+    margin-top: 4px;
+    /* width: 711px; */
+}
+
+.containerNewPlayers {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px;
+}
+
+.listPlayers {
+    display: flex;
+}
+
+.arrowLeft {
+    display: inline-block;
+    margin-top: 99px;
+    padding-left: 10px;
+}
+
+.arrowRight {
+    display: inline-block;
+    margin-top: 97px;
+    padding-right: 10px;
+}
+
+.arrowLeft a {
+    text-decoration: none;
+    color: #ED1639;
+}
+
+.arrowRight a {
+    text-decoration: none;
+    color: #ED1639;
+}
+
+.playerImage {
+    /* display: block; */
+    box-sizing: border-box;
+    border: 2px solid #BEC5D0;
+    /* width: 117px; */
+    height: 154px;
+    margin-top: 11px;
+    max-width: 100%;
+    height: auto;
+}
+
+.itemListPlayer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 5px;
+
+}
+
+.containerProfile {
+    /* width: 117px; */
+    /* height: 37px; */
+    background-color: #ED1639;
+}
+
+.name {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 20px;
+}
+
+.playerInfo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.itemPlayerInfo {
+    display: flex;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 20px;
+}
+
+.itemShowMore {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 5px 0;
+}
+
+.itemShowMore a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    transition: opacity 0.2s;
+}
+
+.itemShowMore a:hover {
+    opacity: 0.5;
+}
+
+.containerStore {
+    margin-top: 44px;
+    margin-left: 19px;
+}
+
+.titleStore {
+    /* width: 224px; */
+    height: 42px;
+    background-color: #ED1639;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 20px;
+}
+
+.borderStore {
+    box-sizing: border-box;
+    border: 2px solid #ED1639;
+    margin-top: 4px;
+    padding-bottom: 31px;
+}
+
+.listStore {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 9px;
+}
+
+.itemListStore {
+    display: flex;
+    /* margin-left: 9px; */
+}
+
+.storeItem1 {
+    display: block;
+    box-sizing: border-box;
+    border: 2px solid #BEC5D0;
+    width: 53.16px;
+    height: 56px;
+    margin-top: 9px;
+}
+
+.storeItem2 {
+    display: block;
+    box-sizing: border-box;
+    border: 2px solid #BEC5D0;
+    width: 53.16px;
+    height: 56px;
+    margin-top: 15px;
+}
+
+.storeItem3 {
+    display: block;
+    box-sizing: border-box;
+    border: 2px solid #BEC5D0;
+    width: 53.16px;
+    height: 56px;
+    margin-top: 15px;
+}
+
+.containerCard1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ED1639;
+    width: 100%;
+    height: 56px;
+    margin-top: 9px;
+}
+
+.containerCard2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ED1639;
+    width: 100%;
+    height: 56px;
+    margin-top: 15px;
+}
+
+.nameCard {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    text-align: center;
+    line-height: 20px;
+    margin-left: 1.84px;
+}
+
+.bottomInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.itemBottomInfo1 {
+    display: flex;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 8px;
+    color: white;
+    line-height: 16px;
+    margin-left: 1.84px;
+}
+
+.itemBottomInfo2 {
+    display: flex;
+    margin-right: 2px;
+}
+
+.itemBottomInfo2 a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    transition: opacity 0.2s;
+}
+
+.itemBottomInfo2 a:hover {
+    opacity: 0.5;
+}
+
+@media (max-width: 2600px) {
+    .containerPS {
+        max-width: 1320px;
+    }
+}
+
+@media (max-width: 992px) {
+    .containerPS {
+        max-width: 700px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .listPlayers {
+        justify-content: center;
+    }
+
+    .containerStore {
+        margin-left: 0;
+        width: 50%;
+    }
+
+    .borderStore {
+        padding-bottom: 9px;
+    }
+
+    .arrowLeft {
+        padding-left: 10px;
+    }
+
+    .arrowRight {
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 720px) {
+    .containerPS {
+        max-width: auto;
+    }
+
+    .containerStore {
+        width: 100%;
+    }
+
+    .containerNewPlayers {
+        flex-direction: column;
+    }
+
+    .arrowLeft {
+        display: none;
+    }
+
+    .arrowRight {
+        display: none;
+    }
+}
+
+@media (max-width: 460px) {
+    .containerPS {
+        width: 100%;
+    }
+
+    .containerNewPlayers {
+        flex-direction: column;
+    }
+
+    .containerStore {
+        width: 70%;
+    }
+
+    .arrowLeft {
+        display: none;
+    }
+
+    .arrowRight {
+        display: none;
+    }
+
+    .containerCard1 {
+        height: auto;
+    }
+
+    .containerCard2 {
+        height: auto;
+    }
+}

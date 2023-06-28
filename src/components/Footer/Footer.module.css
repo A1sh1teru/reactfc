@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,600;1,400&display=swap');
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 125px;
+}
+
+.itemFooterInfo {
+    display: flex;
+    justify-content: center;
+    font-family: "Jost", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    color: black;
+    padding: 0 12px;
+}
+
+.itemFooterInfo a {
+    text-decoration: none;
+    transition: opacity 0.2s;
+    color: black;
+}
+
+.itemFooterInfo a:hover {
+    opacity: 0.5;
+}
+
+.list2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.itemIcon {
+    display: flex;
+    color: white;
+    margin: 0 10px;
+    border-radius: 50%;
+    background-color: #ED1639;
+    padding: 10px;
+}
+
+.itemIcon a {
+    color: white;
+    height: 25px;
+}
+
+.itemIcon a:hover {
+    color: #BEC5D0;
+}
+
+.itemSvg {
+    width: 25px;
+    height: 25px;
+}
+
+.privacy {
+    display: flex;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+.privacyPar {
+    display: flex;
+    font-family: "Jost", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.26px;
+    color: #92989F;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 420px) {
+    .list1 {
+        display: flex;
+        flex-direction: column;
+    }
+}
