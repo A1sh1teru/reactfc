@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactfc/static/css/main.3c4fa10e.css",
-    "main.js": "/reactfc/static/js/main.4f5f1df9.js",
+    "main.css": "/reactfc/static/css/main.6a81e1d6.css",
+    "main.js": "/reactfc/static/js/main.8719b1de.js",
     "static/media/storeItem3.svg": "/reactfc/static/media/storeItem3.53183b076e7c056a6a2fbad04e43ad23.svg",
     "static/media/imagelist6.svg": "/reactfc/static/media/imagelist6.eb8c15e80c27049853bf9c70fa32700a.svg",
     "static/media/imagelist4.svg": "/reactfc/static/media/imagelist4.384828221585efaa3411469f0b3c6bae.svg",
@@ -21,11 +21,11 @@
     "static/media/table.svg": "/reactfc/static/media/table.872fc0b5e45ba7c5ae7cd2998c0a3305.svg",
     "static/media/searchIcon.svg": "/reactfc/static/media/searchIcon.fe5a8d4ee0393f87c2ae592b5a97c0ed.svg",
     "index.html": "/reactfc/index.html",
-    "main.3c4fa10e.css.map": "/reactfc/static/css/main.3c4fa10e.css.map",
-    "main.4f5f1df9.js.map": "/reactfc/static/js/main.4f5f1df9.js.map"
+    "main.6a81e1d6.css.map": "/reactfc/static/css/main.6a81e1d6.css.map",
+    "main.8719b1de.js.map": "/reactfc/static/js/main.8719b1de.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c4fa10e.css",
-    "static/js/main.4f5f1df9.js"
+    "static/css/main.6a81e1d6.css",
+    "static/js/main.8719b1de.js"
   ]
 }
