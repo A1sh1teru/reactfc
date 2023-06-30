@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactfc/static/css/main.6a81e1d6.css",
+    "main.js": "/reactfc/static/js/main.8719b1de.js",
+    "static/media/storeItem3.svg": "/reactfc/static/media/storeItem3.53183b076e7c056a6a2fbad04e43ad23.svg",
+    "static/media/imagelist6.svg": "/reactfc/static/media/imagelist6.eb8c15e80c27049853bf9c70fa32700a.svg",
+    "static/media/imagelist4.svg": "/reactfc/static/media/imagelist4.384828221585efaa3411469f0b3c6bae.svg",
+    "static/media/imagelist5.svg": "/reactfc/static/media/imagelist5.68346306bc83158b9f397236190810ce.svg",
+    "static/media/imagelist1.svg": "/reactfc/static/media/imagelist1.5629204099d213cfd485db3399cce741.svg",
+    "static/media/image1.svg": "/reactfc/static/media/image1.dcf9d70b5bffac23628a98b95a2d265a.svg",
+    "static/media/imagelist2.svg": "/reactfc/static/media/imagelist2.301c68e79c7e296b19fc429702d589a9.svg",
+    "static/media/player3.svg": "/reactfc/static/media/player3.965b532d0644d7124cad5cc5dbd5bb8a.svg",
+    "static/media/player1.svg": "/reactfc/static/media/player1.325a765917a98452a38e8793402b57f8.svg",
+    "static/media/logo.svg": "/reactfc/static/media/logo.0f80c74fff255f84d77698c27d4f9118.svg",
+    "static/media/player5.svg": "/reactfc/static/media/player5.30c5aaa39cc65e203614624c9a3c3967.svg",
+    "static/media/player4.svg": "/reactfc/static/media/player4.02489bd10d240aa338a9ffc293d32cc2.svg",
+    "static/media/storeItem1.svg": "/reactfc/static/media/storeItem1.753af218a3019462dbdf6de4cdc96428.svg",
+    "static/media/player2.svg": "/reactfc/static/media/player2.6a32bdc94e3be0561aa5dcfa8317fc35.svg",
+    "static/media/storeItem2.svg": "/reactfc/static/media/storeItem2.dae48092bfa12441a1e3d0bc3b58c4d6.svg",
+    "static/media/imagelist3.svg": "/reactfc/static/media/imagelist3.14ff879bd5700d378a165456fbc84bc0.svg",
+    "static/media/table.svg": "/reactfc/static/media/table.872fc0b5e45ba7c5ae7cd2998c0a3305.svg",
+    "static/media/searchIcon.svg": "/reactfc/static/media/searchIcon.fe5a8d4ee0393f87c2ae592b5a97c0ed.svg",
+    "index.html": "/reactfc/index.html",
+    "main.6a81e1d6.css.map": "/reactfc/static/css/main.6a81e1d6.css.map",
+    "main.8719b1de.js.map": "/reactfc/static/js/main.8719b1de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a81e1d6.css",
+    "static/js/main.8719b1de.js"
+  ]
+}
